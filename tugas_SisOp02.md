@@ -100,7 +100,7 @@ D3-LA IT-A
 
 ---
 
-1. 
+7. 
     >**QUESTION :**
     >
     > Some early computers protected the operating system by placing it in a memory partition that could not be modified by either the user job or the operating system itself. Describe two difficulties that you think could arise with such a scheme
@@ -113,19 +113,27 @@ D3-LA IT-A
 
 8. 
     >**QUESTION :**
+    >
     >Some CPUs provide for more than two modes of operation. What are two possible uses of these multiple modes?
 
     >**ANSWER :**
+    >
     >The first is to allow for improved isolation and data security as well as protection against malicious software. Then the PC can also be optimized for performance such as Advanced caching or parallel processing that can achieve energy efficiency and provide better performance.
 
 ---
 
 9. 
     >**QUESTION :**
-    >>Timers could be used to compute the current time. Provide a short description of how this could be accomplished.
+    >
+    >Timers could be used to compute the current time. Provide a short description of how this could be accomplished.
 
     >**ANSWER :**
-    >>1.	Hardware Clock>2.	Timer Interrupts>3.	Timekeeping>4.	Synchronization>5.	User Access
+    >
+    >1.	Hardware Clock
+    >2.	Timer Interrupts
+    >3.	Timekeeping
+    >4.	Synchronization
+    >5.	User Access
 
 ---
 
