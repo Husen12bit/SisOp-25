@@ -17,6 +17,7 @@ D3-LA IT-A
 1. “Tugas SO Membuat flowchart utk proses dari komputer dinyalakan, bootstrap, dst hingga komputer bisa digunakan”.
     <br>
    **Jawaban:**
+   
    ![Image](https://github.com/user-attachments/assets/c9fc8a4d-08ec-402f-95c9-469e76a58f51)
     <br>
    **Kesimpulan:**
