@@ -2,6 +2,8 @@
 
 ---
 
+![Image](https://github.com/user-attachments/assets/838b068c-4d85-452a-aca6-352d279fbd3f)
+
 #### Dosen Pengampu :
 **Dr. Ferry Astika Saputra ST, M.Sc**
 
@@ -63,7 +65,7 @@ D3-LA IT-A
 
 <br>
 
-**FILE SYSTEM MANEGEMENT**
+**FILE SYSTEM MANAGEMENT**
 - Pandangan Logis Penyimpanan
     - Sistem operasi menyediakan pandangan yang seragam dan logis terhadap penyimpanan informasi
     - Mengabstraksi properti fisik menjadi unit penyimpanan logis, yaitu file
@@ -84,7 +86,7 @@ D3-LA IT-A
 
 <br>
 
-**MASS-STORAGE MAGEMENT**
+**MASS-STORAGE MANAGEMENT**
 - Penyimpanan massal digunakan untuk menyimpan data yang tidak dapat dimuat ke dalam memori utama atau yang harus disimpan dalam jangka waktu lama. Pengelolaan penyimpanan ini sangat penting karena memengaruhi kecepatan operasi komputer secara keseluruhan.  
 - Aktivitas sistem operasi dalam manajemen penyimpanan meliputi:  
     - Mounting dan unmounting perangkat penyimpanan  
