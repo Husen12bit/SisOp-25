@@ -2,6 +2,8 @@
 
 ---
 
+![Image](https://github.com/user-attachments/assets/838b068c-4d85-452a-aca6-352d279fbd3f)
+
 #### Dosen Pengampu :
 **Dr. Ferry Astika Saputra ST, M.Sc**
 
@@ -15,6 +17,8 @@ D3-LA IT-A
 >TUGAS
 >- Membuat resume appendix-A maksimal 5 lembar menggunakan bhs Indonesia
 >
+<br>
+
 **PENDAHULUAN**
 <p>Sistem operasi (OS) adalah perangkat lunak yang mengelola perangkat keras komputer dan menyediakan layanan untuk program aplikasi. Dokumen ini membahas konsep tambahan tentang bagaimana sistem operasi bekerja secara lebih teknis.<P>
 
@@ -156,6 +160,7 @@ D3-LA IT-A
 >- Memberikan komentar flop/iops
 > https://github.com/ferryastika/flops-iops
 >
+<br>
 
 1.	            $ make
     Output:
