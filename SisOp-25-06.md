@@ -186,6 +186,7 @@ D3-LA IT-A
 
 - **Process Tree**
 
+![Image](https://github.com/user-attachments/assets/ef68d807-e1b2-44d0-8cba-8587a0865cb8)
 
 - **Deskripsi**
     Program ini menggunakan fork(), yang berarti akan membuat dua proses:
