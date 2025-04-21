@@ -19,6 +19,7 @@ D3-LA IT-A
 <br>
 
 >TUGAS 1
+>
 >Jelaskan dalam 2 paragraph disertai dengan gambar tentang konsep single thread dan multithread!
 >
 Jawaban :
@@ -33,7 +34,9 @@ Jawaban :
 ---
 
 >TUGAS 2
+>
 >Kerjakan Programming Exercise:
+>
 >a. Penerapan thread pada contoh SumTask.java.
 >b. penerapan Thread di Linux (thrd-posix.c).
 >c. penerapan thread di Microsoft Windows (thrd-win32.c).
@@ -63,6 +66,7 @@ Jawaban :
 ---
 
 >TUGAS 4
+>
 >Jawab pertanyaan practice exercise pada chapter 4 :
 >1. Provide three programming examples in which multithreading provides better performance than a single-threaded solustion.
 >2. Using Amdahl's law, calculate the speed up gain of an application that has a 60 percent parallel component for (a) two processing cores and (b) four processing cores.
