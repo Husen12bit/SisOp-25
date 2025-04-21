@@ -62,8 +62,7 @@ Jawaban :
 >Buat PPT tentang evolusi teknilogi processor Intel dengan menggunakan referensi : https://www.youtube.com/watch?v=PT787d9odKk
 >
 Jawaban :
-
-
+[Evolusi Intel.pptx](https://github.com/user-attachments/files/19836565/Evolusi.Intel.pptx)
 <br>
 
 ---
