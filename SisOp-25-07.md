@@ -1,6 +1,8 @@
-# TUGAS SISTEM OPERASI MINGGU KE-8
+# TUGAS SISTEM OPERASI MINGGU KE-7
 
 ---
+
+![Image](https://github.com/user-attachments/assets/838b068c-4d85-452a-aca6-352d279fbd3f)
 
 #### Dosen Pengampu :
 **Dr. Ferry Astika Saputra ST, M.Sc**
