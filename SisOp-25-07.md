@@ -4,6 +4,8 @@
 
 ![Image](https://github.com/user-attachments/assets/838b068c-4d85-452a-aca6-352d279fbd3f)
 
+---
+
 #### Dosen Pengampu :
 **Dr. Ferry Astika Saputra ST, M.Sc**
 
@@ -14,15 +16,18 @@ D3-LA IT-A
 
 ---
 
+<br>
+
 >TUGAS 1
 >Jelaskan dalam 2 paragraph disertai dengan gambar tentang konsep single thread dan multithread!
 >
 Jawaban :
 1. Single Thread
    Single thread adalah konsep di mana sebuah program hanya dapat menjalankan satu instruksi pada satu waktu. Sehingga apabila client mengirimkan request lagi ke server, maka server akan meletakkannya setelah instruksi 1 dan akan dieksekusi setelah instruksi 1 selesai dijalankan dan begitu pula untuk instruksi-instruksi berikutnya (mengantri).
-2. Multi Thread
+   ![Image](https://github.com/user-attachments/assets/cf4d2571-2919-427d-80c5-bfcb39d58a69)
+3. Multi Thread
    Multi thread adalah konsep di mana sebuah program dapat menjalankan beberapa instruksi pada satu waktu. Sehingga apabila client mengirimkan request lagi ke server, maka server akan membuat thread baru untuk menjalankan instruksi ke-2, begitu seterusnya untuk instruksi 3 server akan membuat thread 3 (tidak perlu mengantri).
-
+   ![Image](https://github.com/user-attachments/assets/33303517-7827-4b6e-983a-1d3ac1e15fea)
 <br>
 
 ---
