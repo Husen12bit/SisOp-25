@@ -59,6 +59,9 @@ Jawaban :
 
 >TUGAS 3
 >
+>Buat PPT tentang evolusi teknilogi processor Intel dengan menggunakan referensi : https://www.youtube.com/watch?v=PT787d9odKk
+>
+Jawaban :
 
 
 <br>
