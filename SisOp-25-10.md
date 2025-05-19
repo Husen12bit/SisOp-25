@@ -16,8 +16,9 @@ D3-LA IT-A
 
 ---
 
->TUGAS
->
+> TUGAS
+> 
+> ![Image](https://github.com/user-attachments/assets/e4472bf5-d0a6-4005-ad53-307553eb5a0e)
 
 Jawaban:
 
