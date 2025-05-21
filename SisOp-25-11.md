@@ -61,6 +61,7 @@ Jawaban:
     | P1     | 0  | 6  | 9  | 9             | 3             |
 
     Total WT = 0 + 1 + 3 = 4
+  
     Average WT = 4 / 3 = 1.33
 
 ---
@@ -101,6 +102,7 @@ Jawaban:
     | P2     | 2  | 2  | 9  | 7             | 5             |
 
     Total WT = 0 + 2 + 5 = 7
+  
     Average WT = 7 / 3 = 2.33
 
 ---
@@ -138,6 +140,7 @@ Jawaban:
     | P3     | 4  | 1  | 5  | 1             | 0             |
 
     Total WT = 3 + 2 + 0 = 5
+  
     Average WT = 5 / 3 = 1.67
 
 ---
